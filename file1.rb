@@ -7,8 +7,6 @@ class Address
     end
 end
 
-
-
 address = Address.new("Bhel")
 
 address.street
